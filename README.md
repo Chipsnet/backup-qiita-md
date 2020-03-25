@@ -20,7 +20,7 @@
 - Pipenvの場合
     - `pipenv install`
 - pipの場合
-    - `pip install`
+    - `pip install -r requirements.txt`
 
 ### tokenの取得
 
