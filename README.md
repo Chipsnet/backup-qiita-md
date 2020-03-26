@@ -12,6 +12,11 @@
 
 - Python3 (開発環境は3.8)
 - pip (開発環境ではpipenvを使用)
+- Git
+
+### ソースの取得
+
+`git clone https://github.com/Chipsnet/backup-qiita-md.git`
 
 ### 依存関係のインストール
 
